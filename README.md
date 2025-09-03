@@ -40,16 +40,6 @@ QTY+21:10'
 
 ---
 
-## Adapting for Mobile (Swift Example)
-
-This project can be adapted for **iOS using Swift**, keeping the same logic:
-
-- User enters PO Number, Product Code, Quantity
-- App generates and displays EDIFACT message
-- Optionally save or share the message via mobile storage
-
----
-
 ## Requirements
 
 - **Java 17+**
