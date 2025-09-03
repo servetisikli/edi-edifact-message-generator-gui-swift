@@ -48,10 +48,4 @@ QTY+21:10'
 
 ---
 
-## License
-
-MIT License
-
----
-
 **Learn, experiment, and simulate EDI & EDIFACT message creation!**
